@@ -1,5 +1,5 @@
-# Socioeconomic impacts of COVID-19 in low income countries: Replication Code
-This README describes the directory structure & should enable users to replicate all tables and figures for work related to the World Bank LSMS and World Bank COVID phone surveys. For more information and to access these phone surveys, visit the World Bank Microdata Library. The relevant surveys are available under under the High-Frequency Phone Survey collection: http://bit.ly/microdata-hfps.   
+# Socioeconomic impacts of COVID-19 in low-income countries: Replication Code
+This README describes the directory structure & should enable users to replicate all tables and figures for work related to Josephson, A., Kilic, T., and Michler, J.D. (2021). "Socioeconomic impacts of COVID-19 in low-income countries." *Nature Human Behaviour 5*: 557-65. For more information and to access these phone surveys, visit the World Bank Microdata Library. The relevant surveys are available under under the High-Frequency Phone Survey collection: http://bit.ly/microdata-hfps.   
 
 [![DOI](https://zenodo.org/badge/282963786.svg)](https://zenodo.org/badge/latestdoi/282963786)
 
@@ -36,7 +36,7 @@ The approach to the phone survey questionnaire design and sampling is comparable
 
 ## Data cleaning
 
-The code in this repository cleans the raw phone surveys and replicates material (both in text and supplementary material) related to "Socioeconomic impact of COVID-19 in four African countries". 
+The code in this repository cleans the raw phone surveys and replicates material (both in text and supplementary material) related to "Socioeconomic impact of COVID-19 in low-income countries". 
 
 ### Pre-requisites
 
