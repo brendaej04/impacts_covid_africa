@@ -83,7 +83,7 @@ Set up the file structure on your local machine as outlined below:
 ```stata
 C:/Users/USERNAME/evolving_impacts
 ├────output
-     ├──stata_graphs
+|    └──stata_graphs
 └────data
      ├──analysis
      ├──ethiopia
