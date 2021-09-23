@@ -45,7 +45,7 @@ The data processing and analysis requires a number of user-written Stata program
 
 The `projectdo.do` file will help you install these.
 
-## Developing Environment
+## Development Environment
 
 ### Step 1
 
