@@ -10,7 +10,7 @@ This README describes the directory structure & should enable users to replicate
  - [Data cleaning](#data-cleaning)
  - [Pre-requisites](#pre-requisites)
  - [Folder structure](#folder-structure)
-
+Hi :) 
 ## Introduction
 
 Contributors:
